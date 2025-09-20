@@ -1,0 +1,16 @@
+theme = 'triple-hyde'
+baseURL = 'https://dryjim.com/'
+languageCode = 'en-gb'
+title = 'Dry Jim Newsletter'
+
+[params]
+  description = "Your weekly dose of insight and perspective"
+  author = "Jim"
+  tagline = "Thoughtful commentary on the world around us"
+  
+  # Social links (optional)
+  # github = "https://github.com/yourusername"
+  # twitter = "https://twitter.com/yourusername"
+  
+  # Newsletter specific
+  email = "subscribe@dryjim.com"  # Update when you have email setup
