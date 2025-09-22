@@ -1,6 +1,6 @@
 --- 
 title: "Welcome Post (with amends)"
-date: 2025-09-22
+date: "2025-09-22"
 draft: false
 --- 
    
