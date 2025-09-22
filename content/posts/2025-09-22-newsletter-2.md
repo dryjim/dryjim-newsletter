@@ -1,6 +1,6 @@
 ---
 title: "I sense success!"
-date: "2025-09-22 pm"
+date: "2025-09-22"
 draft: false
 ---
    
