@@ -1,7 +1,7 @@
 theme = 'triple-hyde'
 baseURL = 'https://dryjim.com/'
 languageCode = 'en-gb'
-title = 'Dry Jim Newsletter'
+title = 'DryJim Newsletter'
 
 [params]
   description = "Your weekly dose of insight and perspective"
