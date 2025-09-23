@@ -1,4 +1,4 @@
-theme = 'triple-hyde'
+theme = 'notetoself-inspired'
 baseURL = 'https://dryjim.com/'
 languageCode = 'en-gb'
 title = 'DryJim Newsletter'
